@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Harsehraab
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning flask
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Harsehraab Singh Sarao
 - 📫 How to reach me : hasinghsarao@gmail.com
 
 <!---
