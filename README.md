@@ -9,6 +9,7 @@
 
 -   ### Education:
 -   Bachelor of Science in Data Science and Applications
+-   Indian Institute of Technology, Madras
   
 - Coursework:
     
