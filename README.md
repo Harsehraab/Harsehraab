@@ -8,7 +8,7 @@
 -   Deep Learning, Computer vision, NLP, LLMs
 
 -   ### Education:
--   Bachelor of Science in Data Science and Applications
+-   Bachelor of Science in Data Science and Applications (Jan 2021 - Dec 2024)
 -   Indian Institute of Technology, Madras
   
 - Coursework:
@@ -37,9 +37,13 @@
   - Software Testing,
   - English II,
   - English I
--     
+  - 
 -   Projects:
 
+- Bachelor of Technology in Computer Science and Engineering (2020 - 2024)
+- I.K. Gujarl Punjab Technical University
+- Projects :
+-  
 <!---
 Harsehraab/Harsehraab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
