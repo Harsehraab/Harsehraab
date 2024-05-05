@@ -3,7 +3,7 @@
 -   Email: hasinghsarao@gmail.com
 -   Linkedin: www.linkedin.com/in/harsehraab
 -   Phone number: +91 700 925 3310
--
+
 -   ### Interests: 
 -   Deep Learning, Computer vision, NLP, LLMs
 
