@@ -10,6 +10,17 @@
 -   ### Education:
 -   Bachelor of Science in Data Science and Applications (Jan 2021 - Dec 2024)
 -   Indian Institute of Technology, Madras
+
+-   Recent Projects:
+-     Computer vision: Indian Sign Language Recognition
+-       https://github.com/Harsehraab/Gesture-Recognition-System.git
+
+-     BlogliteV2
+-       https://github.com/Harsehraab/BlogliteV2.git
+
+-     Kamban Board
+-       https://github.com/Harsehraab/kamban_board/blob/main/README.md
+-       
   
 - Coursework:
     
